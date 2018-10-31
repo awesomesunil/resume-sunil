@@ -1,0 +1,77 @@
+{
+  "main": {
+    "name": "Sunil Bajracharya",
+    "occupation": "Software Developer",
+    "description": "",
+    "image": "profilepic.jpg",
+    "bio": "",
+    "contactmessage": "",
+    "email": "bajracharya_sunil@outlook.com",
+    "phone": "5802917021",
+    "address": {
+      "street": "",
+      "city": "Lawton",
+      "state": "OK",
+      "zip": "73501"
+    },
+    "website": "http://www.awesomesunil.com",
+    "resumedownload": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/awesomesunil",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [{}],
+    "work": [{}],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "90%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": []
+  },
+  "testimonials": {
+    "testimonials": []
+  }
+}
